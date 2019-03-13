@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\ComicBookGalleryModel.exe.config
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\ComicBookGalleryModel.exe
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\ComicBookGalleryModel.pdb
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\EntityFramework.dll
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\EntityFramework.xml
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Release\ComicBookGalleryModel.Migrations.Initial.resources
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Release\ComicBookGalleryModel.csproj.GenerateResource.cache
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Release\ComicBookGalleryModel.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Release\ComicBookGalleryModel.csproj.CopyComplete
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Release\ComicBookGalleryModel.exe
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Release\ComicBookGalleryModel.pdb

@@ -1,0 +1,16 @@
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.exe.config
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.exe
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.pdb
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.dll
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.xml
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csproj.CopyComplete
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.exe
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.pdb
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.Migrations.Initial.resources
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csproj.GenerateResource.cache
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.Migrations.AddBioPropertyToArtist.resources
+C:\Users\Marcus\source\repos\dotnet-ef-migrations\src\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.Migrations.AddComicBookAverageRatingEntity.resources
